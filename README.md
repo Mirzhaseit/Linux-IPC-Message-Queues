@@ -98,7 +98,7 @@ int main(int argc, char *argv[]) {
 
 <img width="741" height="554" alt="image" src="https://github.com/user-attachments/assets/8fa194da-b147-4b59-b5a8-5ecfbd4b7414" />
 
-<img width="775" height="319" alt="image" src="https://github.com/user-attachments/assets/758ccf09-ee24-4794-92e9-f82ed9ba1266" />
+
 
 # RESULT:
 The programs are executed successfully.
