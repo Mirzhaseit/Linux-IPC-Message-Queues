@@ -1,8 +1,4 @@
-# Linux-IPC-Message-Queues# Linux IPC Message Queue Output
-
-Below is the screenshot of my IPC program output:
-
-![Program Output](4thos.png)
+# Linux-IPC-Message-Queues
 
 Linux IPC-Message Queues
 
@@ -101,7 +97,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-
+![Program Output](4thos.png)
 
 
 
