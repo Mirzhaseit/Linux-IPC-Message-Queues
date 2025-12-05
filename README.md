@@ -97,7 +97,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Program Output](4thos.png)
+<img width="955" height="1030" alt="image" src="https://github.com/user-attachments/assets/0a43d725-fd0a-4b2d-9a2a-04ddb14c42fc" />
 
 
 
